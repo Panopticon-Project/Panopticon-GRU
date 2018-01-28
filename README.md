@@ -43,4 +43,4 @@ Legitimate software that can be used by threat actors to perform attacks.
 A mistake in software that can be directly used by a hacker to gain access to a system or network.
 
 ## Raw Intelligence
-
+https://www.washingtonpost.com/world/national-security/russian-military-was-behind-notpetya-cyberattack-in-ukraine-cia-concludes/2018/01/12/048d8506-f7ca-11e7-b34a-b85626af34ef_story.html?utm_term=.fcc3ffe7af10
