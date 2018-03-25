@@ -46,3 +46,5 @@ A mistake in software that can be directly used by a hacker to gain access to a 
 https://www.washingtonpost.com/world/national-security/russian-military-was-behind-notpetya-cyberattack-in-ukraine-cia-concludes/2018/01/12/048d8506-f7ca-11e7-b34a-b85626af34ef_story.html?utm_term=.fcc3ffe7af10
 
 https://www.securityweek.com/russia-hacked-olympics-computers-turned-blame-north-korea-report
+
+https://www.darkreading.com/threat-intelligence/how-guccifer-20-got-punkd-by-a-security-researcher/d/d-id/1331213?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
