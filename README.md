@@ -52,3 +52,5 @@ https://www.darkreading.com/threat-intelligence/how-guccifer-20-got-punkd-by-a-s
 https://www.wired.com/story/russia-sanctions-ira-gru-white-house/?CNDID=50740756&mbid=nl_031618_daily_list1_p3
 
 https://www.securityweek.com/russian-hackers-went-after-conservative-us-groups-microsoft
+
+https://www.securityweek.com/whats-gru-look-russias-shadowy-military-spies
