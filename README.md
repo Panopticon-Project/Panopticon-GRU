@@ -54,3 +54,5 @@ https://www.wired.com/story/russia-sanctions-ira-gru-white-house/?CNDID=50740756
 https://www.securityweek.com/russian-hackers-went-after-conservative-us-groups-microsoft
 
 https://www.securityweek.com/whats-gru-look-russias-shadowy-military-spies
+
+https://arstechnica.com/information-technology/2018/09/russians-tried-to-hack-swiss-lab-testing-samples-from-skripal-attack/
