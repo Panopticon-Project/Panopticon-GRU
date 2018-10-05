@@ -56,3 +56,5 @@ https://www.securityweek.com/russian-hackers-went-after-conservative-us-groups-m
 https://www.securityweek.com/whats-gru-look-russias-shadowy-military-spies
 
 https://arstechnica.com/information-technology/2018/09/russians-tried-to-hack-swiss-lab-testing-samples-from-skripal-attack/
+
+https://www.securityweek.com/us-charges-7-russian-intel-officers-west-condemns-gru
