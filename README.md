@@ -62,3 +62,5 @@ https://www.securityweek.com/us-charges-7-russian-intel-officers-west-condemns-g
 https://www.wired.com/story/russian-spies-indictment-hotel-wi-fi-hacking/?CNDID=53659400&mbid=nl_100618_daily_list1_p1
 
 https://arstechnica.com/information-technology/2018/07/from-bitly-to-x-agent-how-gru-hackers-targeted-the-2016-presidential-election/
+
+https://www.bellingcat.com/news/uk-and-europe/2019/02/14/third-suspect-in-skripal-poisoning-identified-as-denis-sergeev-high-ranking-gru-officer/
