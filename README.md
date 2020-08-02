@@ -66,3 +66,5 @@ https://arstechnica.com/information-technology/2018/07/from-bitly-to-x-agent-how
 https://www.bellingcat.com/news/uk-and-europe/2019/02/14/third-suspect-in-skripal-poisoning-identified-as-denis-sergeev-high-ranking-gru-officer/
 
 https://www.nytimes.com/2019/10/08/world/europe/unit-29155-russia-gru.html?smid=nytcore-ios-share
+
+https://www.securityweek.com/us-officials-russia-behind-spread-virus-disinformation
