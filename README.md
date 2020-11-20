@@ -68,3 +68,5 @@ https://www.bellingcat.com/news/uk-and-europe/2019/02/14/third-suspect-in-skripa
 https://www.nytimes.com/2019/10/08/world/europe/unit-29155-russia-gru.html?smid=nytcore-ios-share
 
 https://www.securityweek.com/us-officials-russia-behind-spread-virus-disinformation
+
+https://www.securityweek.com/uk-says-russia-launched-cyberattacks-against-2020-olympic-paralympic-games
