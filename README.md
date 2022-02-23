@@ -70,3 +70,5 @@ https://www.nytimes.com/2019/10/08/world/europe/unit-29155-russia-gru.html?smid=
 https://www.securityweek.com/us-officials-russia-behind-spread-virus-disinformation
 
 https://www.securityweek.com/uk-says-russia-launched-cyberattacks-against-2020-olympic-paralympic-games
+
+https://www.securityweek.com/white-house-accuses-russia-cyberattacks-targeting-ukraine
