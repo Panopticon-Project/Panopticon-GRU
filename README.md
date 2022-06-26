@@ -72,3 +72,5 @@ https://www.securityweek.com/us-officials-russia-behind-spread-virus-disinformat
 https://www.securityweek.com/uk-says-russia-launched-cyberattacks-against-2020-olympic-paralympic-games
 
 https://www.securityweek.com/white-house-accuses-russia-cyberattacks-targeting-ukraine
+
+https://www.bellingcat.com/news/americas/2022/06/16/the-brazilian-candidate-the-studious-cover-identity-of-an-alleged-russian-spy/
